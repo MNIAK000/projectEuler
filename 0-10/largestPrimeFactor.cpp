@@ -35,5 +35,5 @@ void primeFactors(long long n)
 
 int main()
 {
-    primeFactors(600851475143);
+    primeFactors(28);
 }

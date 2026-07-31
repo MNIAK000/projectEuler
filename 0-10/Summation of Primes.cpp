@@ -41,5 +41,5 @@ void primeFinder(int n)
 
 int main()
 {
-    primeFinder(2000000);
+    primeFinder(28);
 }
